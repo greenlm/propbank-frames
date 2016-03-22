@@ -4,6 +4,7 @@
     <roleset id="calibrate.01" name="fine-tune">
       <aliases>
         <alias framenet="" pos="v" verbnet="">calibrate</alias>
+        <alias framenet="" pos="n" verbnet="">calibration</alias>
       </aliases>
       <note>CALIBRATE-V NOTES: Frames file for 'calibrate' based on sentences in wsj. No Verbnet entry. (from calibrate.01-v predicate notes)</note>
       <roles>
